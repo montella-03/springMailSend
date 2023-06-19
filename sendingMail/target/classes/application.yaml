@@ -1,0 +1,13 @@
+spring:
+  mail:
+    host: smtp.gmail.com
+    port: 587
+    username: oigoc60@gmail.com
+    password: swryubmnhqziymnb
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+            enable: true
+            required: true
